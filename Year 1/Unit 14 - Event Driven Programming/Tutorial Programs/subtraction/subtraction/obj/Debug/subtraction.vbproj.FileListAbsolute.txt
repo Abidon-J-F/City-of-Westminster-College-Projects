@@ -1,0 +1,11 @@
+D:\Unit 14 Event program work\subtraction\subtraction\bin\Debug\subtraction.exe.config
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.vbprojResolveAssemblyReference.cache
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.Form1.resources
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.Resources.resources
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.vbproj.GenerateResource.Cache
+D:\Unit 14 Event program work\subtraction\subtraction\bin\Debug\subtraction.exe
+D:\Unit 14 Event program work\subtraction\subtraction\bin\Debug\subtraction.pdb
+D:\Unit 14 Event program work\subtraction\subtraction\bin\Debug\subtraction.xml
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.exe
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.xml
+D:\Unit 14 Event program work\subtraction\subtraction\obj\Debug\subtraction.pdb
