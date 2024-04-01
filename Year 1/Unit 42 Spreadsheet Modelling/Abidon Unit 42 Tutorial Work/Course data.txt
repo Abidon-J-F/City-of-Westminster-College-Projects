@@ -1,0 +1,48 @@
+CourseNo, Course Title , Year , TutorNo
+CN300, Advanced Database Design , One , TU201
+CN301, Keyboarding For Beginners , One , TU202
+CN302, Keyboarding For Beginners , One , TU203
+CN303, Subsidiary Diploma in ICT , One , TU204
+CN304, NVQ3 , One , TU205
+CN305, NVQ3 , One , TU206
+CN306, GCSE Maths , One , TU207
+CN307, Subsidiary Diploma in ICT , One , TU208
+CN308, Advanced Database Design , One , TU209
+CN309, GCSE Maths , One , TU210
+CN310, GCSE Maths , One , TU211
+CN311, Keyboarding For Beginners , One , TU212
+CN312, Extended Diploma in ICT , Two , TU213
+CN313, Extended Diploma in ICT , Two , TU214
+CN314, Keyboarding For Beginners , One , TU215
+CN315, ITQ Level 3 , One , TU216
+CN316, NVQ2 , One , TU217
+CN317, Advanced Database Design , One , TU218
+CN318, ITQ Level 3 , One , TU219
+CN319, Extended Diploma in ICT , Two , TU220
+CN320, Advanced Database Design , One , TU221
+CN321, NVQ2 , One , TU222
+CN322, NVQ3 , One , TU223
+CN323, Keyboarding For Beginners , One , TU224
+CN324, Advanced Database Design , One , TU225
+CN325, Keyboarding For Beginners , One , TU226
+CN326, ITQ Level 3 , One , TU227
+CN327, NVQ2 , One , TU228
+CN328, Keyboarding For Beginners , One , TU229
+CN329, Advanced Database Design , One , TU230
+CN330, Keyboarding For Beginners , One , TU231
+CN331, Keyboarding For Beginners , One , TU232
+CN332, Advanced Database Design , One , TU233
+CN333, GCSE Maths , One , TU234
+CN334, Advanced Database Design , One , TU235
+CN335, Advanced Database Design , One , TU236
+CN336, ITQ Level 3 , One , TU237
+CN337, Advanced Database Design , One , TU238
+CN338, ITQ Level 3 , One , TU239
+CN339, GCSE Maths , One , TU240
+CN340, Advanced Database Design , One , TU241
+CN341, ITQ Level 3 , One , TU242
+CN342, Extended Diploma in ICT , Two , TU243
+CN343, Extended Diploma in ICT , Two , TU244
+CN344, Keyboarding For Beginners , One , TU245
+CN345, Needlework for Adults, Two , TU246
+
