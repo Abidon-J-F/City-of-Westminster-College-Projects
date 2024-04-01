@@ -14,8 +14,7 @@ Unit 14 P4 Program
 Academy_Database
 
 ### Unit 30 - Digital Graphics
-Travel Wallpaper
-Travel Web Banner
+Travel Wallpaper and Travel Web Banner
 
 ### Unit 42 - Spreadsheet Modelling
 Estate Agent Spreadsheet
