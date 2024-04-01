@@ -1,0 +1,55 @@
+G:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.xml
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.xml
+G:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Unit 14\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC USB saved work\Unit 14\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.exe
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.pdb
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\bin\Debug\Calculator.xml
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Classic Calculator & Scientific Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
