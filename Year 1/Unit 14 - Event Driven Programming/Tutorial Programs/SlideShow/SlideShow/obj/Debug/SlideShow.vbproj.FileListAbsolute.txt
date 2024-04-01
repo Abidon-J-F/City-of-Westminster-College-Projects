@@ -1,0 +1,11 @@
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\bin\Debug\SlideShow.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
