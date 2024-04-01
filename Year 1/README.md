@@ -3,12 +3,13 @@
 Created five coursework projects
 
 ## Year One Modules
-### Object-Oriented Programming
 
-### Smart Systems
+### Unit 8 - e-Commerce
 
-### Smart Systems
+### Unit 14 - Event Driven Programming
 
-### Smart Systems
+### Unit 18 - Database Design
 
-### Smart Systems
+### Unit 30 - Digital Graphics
+
+### Unit 42 - Spreadsheet Modelling
