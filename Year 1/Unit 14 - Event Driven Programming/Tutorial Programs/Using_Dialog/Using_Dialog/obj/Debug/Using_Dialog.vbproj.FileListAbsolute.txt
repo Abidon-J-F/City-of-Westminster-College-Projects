@@ -1,0 +1,10 @@
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\bin\Debug\Using_Dialog.exe.config
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.Form1.resources
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.Resources.resources
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.vbproj.GenerateResource.Cache
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.xml
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\bin\Debug\Using_Dialog.exe
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\bin\Debug\Using_Dialog.pdb
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\bin\Debug\Using_Dialog.xml
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.exe
+D:\Unit 14 Event program work\Using_Dialog\Using_Dialog\obj\Debug\Using_Dialog.pdb
