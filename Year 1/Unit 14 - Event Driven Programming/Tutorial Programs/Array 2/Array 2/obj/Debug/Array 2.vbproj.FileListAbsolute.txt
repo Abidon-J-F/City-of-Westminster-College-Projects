@@ -1,0 +1,11 @@
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\bin\Debug\Array 2.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\bin\Debug\Array 2.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\bin\Debug\Array 2.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\bin\Debug\Array 2.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array 2.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array_2.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array_2.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array 2.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array 2.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array 2.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Array 2\Array 2\obj\Debug\Array 2.pdb
