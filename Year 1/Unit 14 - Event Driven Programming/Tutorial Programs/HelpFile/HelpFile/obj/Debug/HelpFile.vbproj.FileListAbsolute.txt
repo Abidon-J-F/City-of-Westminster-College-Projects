@@ -1,0 +1,11 @@
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\bin\Debug\HelpFile.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\bin\Debug\HelpFile.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\bin\Debug\HelpFile.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\bin\Debug\HelpFile.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\HelpFile\HelpFile\obj\Debug\HelpFile.pdb
