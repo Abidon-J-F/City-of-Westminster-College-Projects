@@ -1,0 +1,22 @@
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\bin\Debug\Piano.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.vbproj.GenerateResource.Cache
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.xml
+C:\Users\Abido\OneDrive\Documents\CWC work\Unit 14\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.xml
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\bin\Debug\Piano.xml
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.vbprojResolveAssemblyReference.cache
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.Resources.resources
+C:\Users\Abido\OneDrive\Documents\CWC\ICT\Year 1\Unit 14 - Event Driven Programming\Programs\Piano\Piano\obj\Debug\Piano.vbproj.GenerateResource.Cache
