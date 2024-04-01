@@ -1,46 +1,0 @@
-StudNo, SFname, SSname, Street, Area, Postcode, Male , DBirth 
-ST101, Richard , Gillis, 1 Back Row, Backland, NW12 8TY , Yes , 10-Sep-86
-ST102, Michael , O’Grady, 1 Crooks Walk, Chelsea, SW6 7UU , No , 19-Sep-78
-ST103, Tracy, Morris, 1 Goldenhaven Road , Chiswick, W4 5RY , No , 20-Jan-69
-ST104, John, Minor, 1 Leader Road  , Whitehall, WC1 4TY, Yes , 02-Jun-91
-ST105, Sue, Lang, 1 Long Acre Drive, Paddington , W1 1TY , No , 17-Nov-88
-ST106, Robert  , Mitchellson, 1 Nick Lane , Putney, SW12 4RT, Yes , 02-Jun-91
-ST107, Robert, Mitchellson, 1 Nick Lane, Putney, SW12 4RT, Yes , 04-Jul-54
-ST108, Michael, Long, 100 Broad Lane, Tottenham, N16 5AQ , Yes , 10-Jun-90
-ST109, Mohammed , Watson, 104 Thomaston Road , Backland, N12 8TY, Yes , 15-May-88
-ST110, Norman , Belmont, 11 Downing Street, Putney, SW1 5TY , No , 15-Feb-67
-ST111, Mary, Belmont, 11 Downing Street, Putney , SW1 5TY , No , 27-Dec-90
-ST112, Andrea , Alvarez, 111 Edge Lane, Catford, SE7 8EW , No , 19-Sep-78
-ST113, Nadia , Hussein, 13 Good Luck Lane, Kensington, W10 7AS , No , 09-Oct-59
-ST114, Lesley , Jones, 133 Paul Street , Kilburn, NW10 5RE , No , 15-Jan-63
-ST115, William, Kline, 14 Roadline Lane, Lewisham, SE16 7LL , Yes , 17-Jun-66
-ST116, Mohammed , Khan, 15 Great Northwick Avenue, Acton, W3 5VV , Yes , 10-Sep-86
-ST117, Lewis,  Lindo-Magras , 15 Leader Road, Tooting,  SW18 3GG , No , 09-Sep-78
-ST118, Ciara, Lee, 15 Mountain Street, Putney, SW3 4RT , No , 18-Oct-69
-ST119, Ken , Burns, 17 Cliff Street, Peckham, SE15 1AP, Yes , 29-Feb-96
-ST120, Roy , Smith, 19 Lancaster Road , Kensington, W11 3WW , Yes , 25-Dec-89
-ST121, Josef , Abdulkarim, 21 Champion Street, Peckham, SE5 1AP , Yes , 10-Sep-86
-ST122, Roy , Smith, 21 Chesterton Road, Kilburn, NW10 4RE , Yes , 06-May-66
-ST123, Roy , Smith, 21 Ladbroke Grove, Kensington, W10 7EE , Yes , 17-Nov-88
-ST124, Viktor , Bica, 21 Opposition Street , Croydon, CR0 4DD, No , 27-Dec-91
-ST125, Rikki Lei , Lontok, 21 Opposition Street, Peckham, SE5 6UP , No , 10-Sep-86
-ST126, Mary , Rose, 23 Bread Lane, East Ham, E16 5TY , No , 15-Feb-67
-ST127, Michael , Watts, 231 River Road, Croydon, CR3 7YY , Yes , 25-Dec-98
-ST128, Abdul , Ali, 27 Lime Road Mews, Croydon , CR0 7YY , Yes , 09-Sep-78
-ST129, Brian , Valdron, 30 Cardinal Drive, Kensington, W10 6WW , Yes , 18-Oct-50
-ST130, Zahra , Al-Sadiq, 33 Paula Lane, Acton, W6 0HP , No , 02-Apr-87
-ST131, Ian , Chapman, 33 Stream Road , Putney, SW3 5TX , Yes , 18-Jan-50
-ST132, Mike , Jones, 34 Smith Street, Lewisham, SE16 5UL , Yes , 25-Dec-89
-ST133, Peter , Nyder, 49 Main Street, Peckham, SE5 5EE , Yes , 12-Jun-60
-ST134, Chris , Fisher, 490 Main Street, Tooting, SW18 1AG , Yes , 11-Nov-65
-ST135, Magda , Blais, 5 Cardinal Drive, Kensington  , W12 1AA, No , 15-Sep-88
-ST136, Ramesh , Myers, 5 River Walk , Whitehall, WC1 2AA , Yes , 25-Nov-59
-ST137, George , Blanchette, 50 Water Street, Croydon , CR2 2DD , Yes , 31-Jul-81
-ST138, Abdul , Ali, 574 Turnpike Lane, Bow, E23 6AA , Yes , 13-Feb-89
-ST139, Robert , Adams, 63 Broadbean Lane , Catford, SE17 8EW , Yes , 01-Jan-90
-ST140, Anthony , Benoit, 66 Good Luck Lane, Paddington , W2 1TY , Yes , 11-Nov-65
-ST141, Richard , Cheshunt, 7 Cliff Avenue, Tottenham, N16 4QW , Yes , 04-Aug-62
-ST142, Pamela , Rowe, 70 Cliff Avenue, Chelsea, SW16 2DU , No , 31-Jul-81
-ST143, Anthony , Chamberlain, 74 Turnpike Road, Putney  , SW12 8GT, Yes , 11-Nov-65
-ST144, Norma , Parr, 9 Nine Lane, Putney  , SW4 5TY, Yes , 20-Apr-50
-ST145Martina Lopez9 Oxford StreetKensington W2X 1AA No 27-Dec-91
