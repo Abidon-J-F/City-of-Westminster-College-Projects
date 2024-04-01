@@ -1,0 +1,11 @@
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\bin\Debug\Naming Controls.exe.config
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\bin\Debug\Naming Controls.exe
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\bin\Debug\Naming Controls.pdb
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\bin\Debug\Naming Controls.xml
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming Controls.vbprojResolveAssemblyReference.cache
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming_Controls.frmMessage.resources
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming_Controls.Resources.resources
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming Controls.vbproj.GenerateResource.Cache
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming Controls.exe
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming Controls.xml
+F:\Unit 14 Event program work\Naming Controls\Naming Controls\obj\Debug\Naming Controls.pdb
