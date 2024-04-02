@@ -1,0 +1,3 @@
+U:\BTEC National Diploma\Unit 25 - Object Oriented Programming\Holidays Aggregation\Holidays Aggregation\obj\Debug\ResolveAssemblyReference.cache
+U:\BTEC National Diploma\Unit 25 - Object Oriented Programming\Holidays Aggregation\Holidays Aggregation\obj\Debug\WindowsApplication1.Resources.resources
+U:\BTEC National Diploma\Unit 25 - Object Oriented Programming\Holidays Aggregation\Holidays Aggregation\obj\Debug\Holidays Aggregation.vbproj.GenerateResource.Cache
