@@ -17,10 +17,14 @@ This repository contains all the projects I have completed during my time at the
 
 ## Year 2 Projects
 
-### Root Finding Calculator
+### Unit 3 - Information Systems
 
-### Reinforcement Learning in Artificial Intelligence Racing Car Game
+### Unit 6 - Software Design and Development
 
-### Group-Based Communication using a Network Distributed System
+### Unit 15 - Object-Oriented Programming
 
-### Tutorial Solutions and a Data Analysis Report
+### Unit 22 - Developing Computer Games
+
+### Unit 28 - Website Production
+
+### Unit 31 - Computer Animation
