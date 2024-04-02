@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Inheritance People", "Inheritance People\Inheritance People.vbproj", "{87B10CAD-F7FE-4040-949F-1FE0FF78559D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B10CAD-F7FE-4040-949F-1FE0FF78559D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B10CAD-F7FE-4040-949F-1FE0FF78559D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B10CAD-F7FE-4040-949F-1FE0FF78559D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B10CAD-F7FE-4040-949F-1FE0FF78559D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
