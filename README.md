@@ -1,6 +1,6 @@
 # Guide Sheet
 
-This repository contains all the projects I have completed during my time at the City of Westminster College, Paddington Green Campus (London) to obtain a Triple Distinction Distinction Distinction (DDD) grade which is equivalent to 144 UCAS points (AAA).
+This repository contains all the projects I have completed during my time at the City of Westminster College, Paddington Green Campus (London) to obtain a Triple Distinction Distinction Distinction (DDD) grade which is equivalent to 144 UCAS points (AAA) for my BTEC Level 3 Extended Diploma in IT.
 
 ## Year 1 Projects
 
